@@ -1,5 +1,5 @@
 public class Getter {
-    int student s =
+    int student s =0;
 }
 class a{
     private int age;
