@@ -9,6 +9,8 @@ public class reverseStringh {
         System.out.println(s1);
         System.out.println(s2);
     }
+
+    
     public static void reverseString(char[] s) {
         int l = 0;
         int r = s.length - 1;
